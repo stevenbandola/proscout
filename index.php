@@ -11,8 +11,11 @@
 
 <body>
 
-	2:09
-
+	<h1>Proscout!</h1> 
+    
+    <a href="#">Get started</a>
+    <a href="#">Log In</a>
+    <a href="#">Signup</a>
 
 </body>
 </html>
